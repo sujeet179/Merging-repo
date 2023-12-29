@@ -5,7 +5,7 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.ai filter=lfs diff=lfs merge=lfs -text
 *.tif filter=lfs diff=lfs merge=lfs -text
-
+*Bloom.tif filter=lfs diff=lfs merge=lfs -text
 
 
 
