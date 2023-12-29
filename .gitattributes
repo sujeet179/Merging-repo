@@ -1,11 +1,7 @@
-*.jpg filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-*.gif filter=lfs diff=lfs merge=lfs -text
-*.psd filter=lfs diff=lfs merge=lfs -text
-*.ai filter=lfs diff=lfs merge=lfs -text
-*.tif filter=lfs diff=lfs merge=lfs -text
-*Bloom.tif filter=lfs diff=lfs merge=lfs -text
+public/images/Crimson[[:space:]]Bloom.tif filter=lfs diff=lfs merge=lfs -text
+public/images/Sunset[[:space:]]Dunes.jpg filter=lfs diff=lfs merge=lfs -text
+public/images/PPP-266.tif filter=lfs diff=lfs merge=lfs -text
+
 
 
 
